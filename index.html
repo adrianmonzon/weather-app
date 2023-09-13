@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weather</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <section class="container">
+        <h1 class="weather__title">Weather in: your location</span></h1>
+        <div class="box weather__box1">
+            <h1 class="weather__box1-city"></h1>
+            <div>
+                <h1 class="weather__box1-temp"></h1>
+                <h2 class="weather__box1-desc"></h2>
+                <img class="weather__box1-icon" src="" alt="" height="128" width="128">
+            </div>
+        </div>
+        <div class="box weather__box2">
+            <div>
+                <h3>Wind speed</h3>
+                <h1 class="weather__box2-wind"></h1>
+            </div>
+            <div>
+                <h3>Humidity</h3>
+                <h1 class="weather__box2-humidity"></h1>
+            </div>
+        </div>
+        <div class="weather__searcher">
+            <h1 class="weather__searcher-title">Search city:</h1>
+            <form class="form" action="submit">
+                <input class="input" type="search" placeholder="Search city">
+            </form>
+        </div>
+        <span class="error-msg">Error getting the city. Please, try again.</span>
+    </section>
+    <script type="module" src="app.js"></script>
+</body>
+
+</html>
