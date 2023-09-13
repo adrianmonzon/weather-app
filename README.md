@@ -14,8 +14,8 @@ Esta es una aplicación de pronóstico del tiempo que te permite obtener informa
 
 ## Uso
 
-1. Clona o descarga este repositorio en tu ordenador.
-2. Abre el archivo `index.html` en tu navegador web.
+1. Opción 1 - Ver aplicación en el siguiente enlace: https://weather-app-sepia-five-45.vercel.app/
+2. Opción 2 - Clona o descarga este repositorio (https://github.com/adrianmonzon/weather-app) en tu ordenador y abre el archivo `index.html` en tu navegador web.
 3. Si se solicita, otorga permiso para acceder a tu ubicación actual para obtener el pronóstico local automáticamente.
 4. También puedes buscar el pronóstico del tiempo para una ubicación específica ingresando el nombre de la ciudad en el campo de búsqueda y haciendo clic en "Buscar".
 
