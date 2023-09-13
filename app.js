@@ -1,4 +1,4 @@
-const key = env.API_KEY;
+const key = "5d137132ffa91941fc403e066a4884d7";
 
 window.addEventListener("load", () => {
   const tempValue = document.querySelector(".weather__box1-temp");
