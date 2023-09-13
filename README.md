@@ -14,7 +14,7 @@ Esta es una aplicación de pronóstico del tiempo que te permite obtener informa
 
 ## Uso
 
-1. Clona o descarga este repositorio en tu computadora.
+1. Clona o descarga este repositorio en tu ordenador.
 2. Abre el archivo `index.html` en tu navegador web.
 3. Si se solicita, otorga permiso para acceder a tu ubicación actual para obtener el pronóstico local automáticamente.
 4. También puedes buscar el pronóstico del tiempo para una ubicación específica ingresando el nombre de la ciudad en el campo de búsqueda y haciendo clic en "Buscar".
@@ -39,4 +39,4 @@ Si deseas contribuir a este proyecto, sigue estos pasos:
 
 - **Nombre:** Adrián Monzón Frasquet
 - **Contacto:** adrianmonzonf@gmail.com
-- **GitHub:** [Adrián Monzón](https://github.com/adrianmonzon)
+- **GitHub:** [https://github.com/adrianmonzon]
