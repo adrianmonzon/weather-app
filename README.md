@@ -39,4 +39,4 @@ Si deseas contribuir a este proyecto, sigue estos pasos:
 
 - **Nombre:** Adrián Monzón Frasquet
 - **Contacto:** adrianmonzonf@gmail.com
-- **GitHub:** [https://github.com/adrianmonzon]
+- **GitHub:** https://github.com/adrianmonzon
